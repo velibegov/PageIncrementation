@@ -1,0 +1,57 @@
+.central_form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20%;
+}
+.button {
+    position: absolute;
+    top: 53%;
+    left: 48%;
+}
+
+.warning_msg {
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    color: crimson;
+    font-family: "MS Gothic", monospace;
+    font-size: larger;
+    text-align: center;
+    top: 32%;
+    left: 35%;
+}
+
+p {
+    font-family: Calibri, serif;
+    font-size: large;
+    color: darkblue;
+}
+
+.increment_form {
+    font-size: 400px;
+    size: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2%;
+    color: black;
+}
+
+.increment_button {
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    height: 50px;
+    width: 100px;
+}
+.exit_button {
+    position: absolute;
+    top: 60%;
+    left: 53%;
+    height: 50px;
+    width: 100px;
+}
+
